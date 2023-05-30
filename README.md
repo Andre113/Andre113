@@ -3,8 +3,8 @@ My name is André. I'm an iOS Developer.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Andre113&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true" /> 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre113&layout=compact&count_private=true&include_all_commits=true&theme=solarized-light" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Andre113&show_icons=true&theme=solarized-light&count_private=true" /> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre113&layout=compact&count_private=true&theme=solarized-light" />
 </a>
 
 
