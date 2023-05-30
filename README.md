@@ -1,4 +1,4 @@
-### Hello everyone! <img height="25em" src="https://visitor-badge.glitch.me/badge?page_id=Andre113.Resume&left_color=green&right_color=black" align="right" />
+### Hello everyone!
 My name is André. I'm an iOS Developer.
 
 
